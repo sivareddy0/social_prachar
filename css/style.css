@@ -1,0 +1,103 @@
+#hero:hover
+{
+    color:#12d9d9;
+}
+#ram:hover
+{
+    background-color: #fbd309;
+}
+#lejand
+{
+    margin: auto;
+    margin-top: 50px;
+}
+#offer
+{
+    font-style:italic;
+    font-size: 27px;
+}
+#colors:hover
+{
+    color:#03fefe;
+}
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+.material-symbols-outlined
+{
+    color:#12d9d9;
+    margin-top: 20px;
+}
+.siva {
+    position: absolute;
+    width: 90vw;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    color:#E9331F;
+  }
+  .num {
+    color: #002bea;
+    display: grid;
+    place-items: center;
+    font-weight: 600;
+    font-size: 3em;
+  }
+  #numberclock
+  {
+    margin-top: 3000px;
+  }
+  #button:hover
+  {
+    background-color: #3f60f7;
+    transition: 0.10s;
+  }
+  #textbutton:hover
+  {
+    background-color:#002bea;
+  }
+  .class64
+  {
+    width:1100px;border-style: groove;border-color: white; margin:auto;
+  }
+  #bar
+  {
+    margin-top: 10px;
+    height: 10px;
+    width:0;
+    border:1 px solid #000000;
+  }
+  .tour
+  {
+    font-size: 30px;
+  }
+  .ids
+{
+  padding: 10px;
+}
+  #insta {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+            
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 10px;
+    
+    font-size:30px;
+    
+  }
+  .youtube
+  {
+    color:red;
+  }
+  .fa-solid
+  {
+    padding-right: 10px;
+    color:green;
+  }
+  
+ 
